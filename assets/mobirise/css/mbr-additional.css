@@ -1625,8 +1625,8 @@ body {
 }
 .cid-qXbZW607Vr .mbr-overlay {
   background: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #000000);
-  background: radial-gradient(#ffffff, #000000);
+  background: linear-gradient(45deg, #ffffff, #51032f);
+  background: radial-gradient(#ffffff, #51032f);
 }
 .cid-qXbZW607Vr .mbr-section-title {
   margin: 0;
@@ -1725,7 +1725,6 @@ body {
 .cid-qXepW8hOUt {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/pexels-photo-459880-1920x1649-1920x1649.jpg");
 }
 .cid-qXepW8hOUt .row {
   justify-content: flex-start;
@@ -1787,7 +1786,7 @@ body {
 .cid-qXlrJK6DJn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/1144-1920x1357-1920x1357.jpg");
+  background-image: url("../../../assets/images/4881-1920x1281.jpg");
 }
 .cid-qXlrJK6DJn .container-fluid {
   padding: 0 3rem;
@@ -1811,7 +1810,7 @@ body {
 .cid-qXlrJK6DJn .input-wrap input {
   border: 1px solid #ddd;
   border-radius: 22px;
-  background-color: #efefef;
+  background-color: #3e0761;
   padding: 18px 25px;
   width: 96%;
 }
@@ -1819,7 +1818,7 @@ body {
   padding: 0;
 }
 .cid-qXlrJK6DJn .form-group textarea {
-  background-color: #efefef;
+  background-color: #3e0761;
   border-radius: 22px;
   padding: 1rem;
   width: 98%;
@@ -1958,7 +1957,7 @@ body {
 .cid-qXuM84Bqzy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/background4-1920x1080.jpg");
 }
 .cid-qXuM84Bqzy .container-fluid {
   padding: 0 3rem;
